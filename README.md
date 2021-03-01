@@ -35,7 +35,7 @@
 </p>
 
 <details>
-	<summary>📋Me resumindo</summary>
+	<summary>📋 Me resumindo</summary>
 
 ## Educação
 - 🎒 **Formação .Net**\
@@ -48,7 +48,7 @@
 
 - 🎒 **Tecnologia da informação**\
 📆 2013-2015\
-📍Universidade paulista - São Paulo, Brasil
+📍 Universidade paulista - São Paulo, Brasil
 
 - 🎒 **Sistemas da informação**\
 📆 2018-2021\
