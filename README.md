@@ -126,7 +126,7 @@
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 <p/>
 
-- 🧑🏻‍💻 **Estágio Web Designer**\
+- 🧑🏻‍💻 **Estágiarioo de web designer**\
 📆 2012 - 2014\
 📍 Freelancer - São Paulo/SP, Brasil
 
