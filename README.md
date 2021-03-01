@@ -127,7 +127,7 @@
 <p/>
 
 - 🧑🏻‍💻 **Estágio Web Designer**\
-📆 2014 - 2019\
+📆 2012 - 2014\
 📍 Freelancer - São Paulo/SP, Brasil
 
 <p align="center">
