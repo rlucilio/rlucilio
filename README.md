@@ -11,6 +11,10 @@
 <a href="https://www.linkedin.com/in/renan-lucilio-521ba513a">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="https://codepen.io/rlucilio">
+	<img src="https://img.shields.io/badge/Codepen-Codepen?style=for-the-badge&logo=codepen&color=1E2025"/>
+</a>
+		
 </p>
 
 <p align='center'>
