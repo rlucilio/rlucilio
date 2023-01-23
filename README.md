@@ -31,12 +31,6 @@
 	 <img src="https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 </p>
 
-<p align='center'>
- Pessoas que se perderam aqui
-</p>
-
-<p align="center"><a href="#"><img src="https://badges.pufler.dev/visits/rlucilio/rlucilio?style=for-the-badge&color=FC60A8"></a>
-</p>
 
 <details>
 	<summary>📋 Me resumindo</summary>
